@@ -19,6 +19,6 @@
     }
   },
   "backend": {
-    "imageid": "extut/ubuntu"
+    "imageid": "ubuntu"
   }
 }
