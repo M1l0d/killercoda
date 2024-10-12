@@ -2,7 +2,7 @@
   "title": "Executable Tutorial",
   "details": {
     "intro": {
-      "text": "extut/README.md"
+      "text": "extut/intro.md"
     },
     "steps": [
       {
