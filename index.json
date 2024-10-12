@@ -6,11 +6,11 @@
     },
     "steps": [
       {
-        "title": "Create a pod",
+        "title": "Create a Pod",
         "text": "1.md"
       },
       {
-        "title": "Delete a pod",
+        "title": "Delete a Pod",
         "text": "2.md"
       }
     ],
