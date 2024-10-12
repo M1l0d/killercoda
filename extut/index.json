@@ -12,7 +12,16 @@
       {
         "title": "Initial Directory Setup",
         "text": "2.md"
-      }
+      },
+      {
+        "title": "",
+        "text": "3.md"
+      },
+      {
+        "title": "",
+        "text": "4.md"
+      },
+      
     ],
     "finish": {
       "text": "finish.md"
