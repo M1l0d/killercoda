@@ -2,20 +2,20 @@
   "title": "Executable Tutorial",
   "details": {
     "intro": {
-      "text": "extut/intro.md"
+      "text": "intro.md"
     },
     "steps": [
       {
         "title": "Create a Pod",
-        "text": "extut/1.md"
+        "text": "1.md"
       },
       {
         "title": "Delete a Pod",
-        "text": "extut/2.md"
+        "text": "2.md"
       }
     ],
     "finish": {
-      "text": "extut/finish.md"
+      "text": "finish.md"
     }
   },
   "backend": {
