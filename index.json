@@ -1,0 +1,10 @@
+{
+  "title": "Ubuntu simple",
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "steps": [
+        {
+          "text": "1.md"
+        }]
+}
