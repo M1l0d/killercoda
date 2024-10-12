@@ -1,10 +1,12 @@
 {
   "title": "Ubuntu simple",
-  "backend": {
-    "imageid": "ubuntu"
-  },
-  "steps": [
-        {
-          "text": "1.md"
-        }]
-}
+  "description": "Great tutorial",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "foreground": "assets/init.sh"
+    },
+    "steps": [
+      {
+        "text": "step1.md"
+      },
