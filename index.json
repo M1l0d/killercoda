@@ -1,12 +1,21 @@
 {
-  "title": "Ubuntu simple",
-  "description": "Great tutorial",
+  "title": "Kubernetes 2node multi-step verification",
   "details": {
     "intro": {
-      "text": "intro.md",
-      "foreground": "assets/init.sh"
+      "text": "README.md"
     },
     "steps": [
       {
-        "text": "step1.md"
+        "title": "Create a pod",
+        "text": "1.md"
       },
+      {
+        "title": "Delete a pod",
+        "text": "2.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  }
+}
