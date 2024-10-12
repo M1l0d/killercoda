@@ -2,23 +2,23 @@
   "title": "Executable Tutorial",
   "details": {
     "intro": {
-      "text": "README.md"
+      "text": "extut/README.md"
     },
     "steps": [
       {
         "title": "Create a Pod",
-        "text": "1.md"
+        "text": "extut/1.md"
       },
       {
         "title": "Delete a Pod",
-        "text": "2.md"
+        "text": "extut/2.md"
       }
     ],
     "finish": {
-      "text": "finish.md"
+      "text": "extut/finish.md"
     }
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "extut/ubuntu"
   }
 }
