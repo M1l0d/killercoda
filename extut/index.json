@@ -1,5 +1,5 @@
 {
-  "title": "Executable Tutorial",
+  "title": "Monitoring ML Model Predictions with Prometheus",
   "details": {
     "intro": {
       "text": "intro.md"
