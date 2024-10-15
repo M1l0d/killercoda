@@ -12,3 +12,7 @@ What we can see from the output is:
 * *count_of_predictions_made_total* will show how many predictions have been made across all runs.
 
 There are other metrics that show Pythons garbage collection which are auto generated for monitoring
+
+### Thank You for going through this Tutorial!
+
+Hopefully you now have a better understanding of Prometheus and how it can be used to monitor machine learning models. 
